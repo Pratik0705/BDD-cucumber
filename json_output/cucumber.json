@@ -1,0 +1,198 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 506921,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksPracticeStepDef.before()"
+            }
+          },
+          {
+            "result": {
+              "duration": 399377,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksPracticeStepDef.before1()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "tag practice 1",
+        "description": "",
+        "id": "to-learn-hooks.;tag-practice-1",
+        "after": [
+          {
+            "result": {
+              "duration": 468792,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksPracticeStepDef.after1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 341206,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksPracticeStepDef.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 325116844,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user lands on login window",
+            "match": {
+              "location": "hooksPracticeStepDef.user_lands_on_login_window()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 380802,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user sees compony logo",
+            "match": {
+              "location": "hooksPracticeStepDef.user_sees_compony_logo()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@SmokTest"
+          },
+          {
+            "line": 3,
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 514254,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksPracticeStepDef.before()"
+            }
+          },
+          {
+            "result": {
+              "duration": 337296,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksPracticeStepDef.before1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 447284,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksPracticeStepDef.beforefirst()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "tag practice 2",
+        "description": "",
+        "id": "to-learn-hooks.;tag-practice-2",
+        "after": [
+          {
+            "result": {
+              "duration": 354894,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksPracticeStepDef.afterfirst()"
+            }
+          },
+          {
+            "result": {
+              "duration": 377869,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksPracticeStepDef.after1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 333874,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksPracticeStepDef.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 385202,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user gets logged",
+            "match": {
+              "location": "hooksPracticeStepDef.user_gets_logged()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 398400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user can view the logo",
+            "match": {
+              "location": "hooksPracticeStepDef.user_can_view_the_logo()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 8,
+            "name": "@SmokTest"
+          },
+          {
+            "line": 9,
+            "name": "@first"
+          }
+        ]
+      }
+    ],
+    "name": "to learn hooks.",
+    "description": "",
+    "id": "to-learn-hooks.",
+    "keyword": "Feature",
+    "uri": "D:/SeleniumW/BDD_Cucumber_Junit/src/main/java/feature/hooksPractice.feature"
+  }
+]

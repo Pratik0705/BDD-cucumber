@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.330363">
+<testcase classname="to learn hooks." name="tag practice 1" time="0.327214">
+<system-out><![CDATA[Given user lands on login window............................................passed
+Then user sees compony logo.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="to learn hooks." name="tag practice 2" time="0.003149">
+<system-out><![CDATA[Given user gets logged......................................................passed
+Then user can view the logo.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
